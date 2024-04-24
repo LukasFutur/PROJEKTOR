@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="C_PROJECTOR.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="System.Runtime.CompilerServices.Unsafe" publicKeyToken="b03f5f7f11d50a3a" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-4.0.4.1" newVersion="4.0.4.1" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="System.Threading.Tasks.Extensions" publicKeyToken="cc7b13ffcd2ddd51" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-4.2.0.1" newVersion="4.2.0.1" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="Newtonsoft.Json" publicKeyToken="30ad4fe6b2a6aeed" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-13.0.0.0" newVersion="13.0.0.0" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="Microsoft.Bcl.AsyncInterfaces" publicKeyToken="cc7b13ffcd2ddd51" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-6.0.0.0" newVersion="6.0.0.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+  <userSettings>
+    <C_PROJECTOR.Properties.Settings>
+      <setting name="NastaveníLaserIP" serializeAs="String">
+        <value>192.168.56.1</value>
+      </setting>
+      <setting name="NastaveníLaserPort" serializeAs="String">
+        <value>3490</value>
+      </setting>
+      <setting name="NastaveníProdukt1" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníProdukt2" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníProdukt3" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníProdukt4" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníProdukt5" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníProdukt6" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníProdukt7" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníProdukt8" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníProdukt9" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníFiltr1" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveníFiltr2" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveníFiltr3" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveníFiltr4" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveníFiltr5" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveníFiltr6" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveníFiltr7" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveníFiltr8" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveníFiltr9" serializeAs="String">
+        <value>HemaGel</value>
+      </setting>
+      <setting name="NastaveniDbPath" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="NastaveníŠtítekŠířka" serializeAs="String">
+        <value>3000</value>
+      </setting>
+      <setting name="NastaveníŠtítekVýška" serializeAs="String">
+        <value>2000</value>
+      </setting>
+    </C_PROJECTOR.Properties.Settings>
+  </userSettings>
+</configuration>
